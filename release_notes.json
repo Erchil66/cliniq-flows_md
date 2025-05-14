@@ -1,4 +1,24 @@
-{
+{   
+    "1.0.856":{
+        "date": "2024-05-14",
+        "app_version":"1.0.856",
+        "notes": [
+            "Added support for calls",
+            "Improved performance of data processing algorithms.",
+            "Fixed bugs related to data synchronization.",
+            "Updated user interface for better usability."
+        ]
+    },    
+    "1.0.855":{
+        "date": "2024-05-14",
+        "app_version":"1.0.855",
+        "notes": [
+            "Added support for calls",
+            "Improved performance of data processing algorithms.",
+            "Fixed bugs related to data synchronization.",
+            "Updated user interface for better usability."
+        ]
+    },
     "1.0.854":{
         "date": "2024-05-13",
         "app_version":"1.0.854",
