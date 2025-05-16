@@ -1,7 +1,7 @@
 {   
     "1.0.858":{
         "date": "2024-05-14",
-        "app_version":"1.0.856",
+        "app_version":"1.0.858",
         "notes": [
             "Added support for calls",
             "Improved performance of data processing algorithms.",
