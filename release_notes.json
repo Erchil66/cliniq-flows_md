@@ -1,4 +1,14 @@
 {   
+     "1.0.858":{
+        "date": "2024-05-14",
+        "app_version":"1.0.858",
+        "notes": [
+            "Fix minor bugs.",
+            "Added Privacy Policy and Terms of Service.",
+            "Read media and photos remove.",
+            "Added auto reconnect for chat and comm center websockets"
+        ]
+    },   
     "1.0.856":{
         "date": "2024-05-14",
         "app_version":"1.0.856",
