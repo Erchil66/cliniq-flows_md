@@ -1,4 +1,14 @@
 {   
+    "1.0.860":{
+        "date": "2024-05-21",
+        "app_version":"1.0.860",
+        "notes": [
+            "Fix minor bugs.",
+            "Fix Fax block upload media or video's",
+            "Fix DND error timer",
+            "Added auto reconnect for chat and comm center websockets"
+        ]
+    }, 
      "1.0.858":{
         "date": "2024-05-14",
         "app_version":"1.0.858",
