@@ -1,4 +1,15 @@
 {   
+    
+     "1.0.862":{
+        "date": "2024-05-21",
+        "app_version":"1.0.862",
+        "notes": [
+            "Fix minor bugs.",
+            "Fix comms and task email tap cursor and fax",
+            "Fix upload attachment",
+            "Fix pull to refresh task"
+        ]
+    }, 
      "1.0.861":{
         "date": "2024-05-21",
         "app_version":"1.0.861",
