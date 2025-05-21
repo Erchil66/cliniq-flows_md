@@ -1,4 +1,13 @@
 {   
+     "1.0.861":{
+        "date": "2024-05-21",
+        "app_version":"1.0.861",
+        "notes": [
+            "Fix minor bugs.",
+            "Fix task email tap cursor",
+            "Connection to ws recoded"
+        ]
+    }, 
     "1.0.860":{
         "date": "2024-05-21",
         "app_version":"1.0.860",
