@@ -1,4 +1,14 @@
 {   
+    "1.0.867":{
+        "date": "2024-05-22",
+        "app_version":"1.0.867",
+        "notes": [
+            "Fix minor bugs.",
+           "Fix send message task, With updated data to comm center",
+           "Phone decline record on comm center",
+          "Chat field to have safe area"
+        ]
+    },
      "1.0.863":{
         "date": "2024-05-22",
         "app_version":"1.0.863",
