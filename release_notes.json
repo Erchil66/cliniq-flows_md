@@ -1,4 +1,16 @@
 {   
+    "1.0.870":{
+        "date": "2024-05-27",
+        "app_version":"1.0.870",
+        "notes": [
+            "Fix minor bugs.",
+            "Phone auto hang up when app is close.",
+            "Added space between keyboard and chat field for comm and task.",
+            "Task auto hide script and task actions when keyboard is open.",
+            "Fix when subject first then message next missing cursor.",
+            "Added recording for callsense related and some records for comm center."
+        ]
+    },
     "1.0.868":{
         "date": "2024-05-22",
         "app_version":"1.0.868",
