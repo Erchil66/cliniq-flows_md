@@ -1,4 +1,13 @@
 {   
+    "1.0.871":{
+        "date": "2024-05-27",
+        "app_version":"1.0.871",
+        "notes": [
+            "Fix minor bugs.",
+            "Phone auto hang up when app is close.",
+           "Enhance playing record for ios"
+        ]
+    },
     "1.0.870":{
         "date": "2024-05-27",
         "app_version":"1.0.870",
