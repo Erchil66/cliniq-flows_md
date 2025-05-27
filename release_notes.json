@@ -1,4 +1,15 @@
 {   
+    "1.0.872":{
+        "date": "2024-05-27",
+        "app_version":"1.0.872",
+        "notes": [
+            "Fix minor bugs.",
+            "App support for android lockscreen notification.",
+            "Don't end call when app received another call and ignore it.",
+            "Chat Group DM duplicate",
+            "Chat not being shown for no history messages on unread or top of the DM list."
+        ]
+    },
     "1.0.871":{
         "date": "2024-05-27",
         "app_version":"1.0.871",
