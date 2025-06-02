@@ -1,4 +1,20 @@
-{   
+{    
+     "1.0.876":{
+        "date": "2025-06-02",
+        "app_version":"1.0.876",
+        "notes": [
+            "Fix minor bugs.",
+            "Revise text for communication center empty list message."
+        ]
+    },
+     "1.0.875":{
+        "date": "2025-06-02",
+        "app_version":"1.0.875",
+        "notes": [
+            "Fix minor bugs.",
+            "Revise text for communication center empty list message."
+        ]
+    },
     "1.0.874":{
         "date": "2025-06-02",
         "app_version":"1.0.874",
