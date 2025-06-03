@@ -1,4 +1,16 @@
-{    
+{   
+     "1.0.879":{
+        "date": "2025-06-04",
+        "app_version":"1.0.879",
+        "notes": [
+            "Fix minor bugs.",
+            "Chat update channel",
+            "Chat logs for buzz",
+            "Comm center new patient data error",
+            "Chat Settings"
+            
+        ]
+    }, 
     "1.0.877":{
         "date": "2025-06-03",
         "app_version":"1.0.877",
