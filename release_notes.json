@@ -1,4 +1,12 @@
 {   
+     "1.0.882":{
+        "date": "2025-06-08",
+        "app_version":"1.0.882",
+        "notes": [
+            "Fix minor bugs.",
+            "Phone bug fix dial tone"
+        ]
+    }, 
      "1.0.881":{
         "date": "2025-06-06",
         "app_version":"1.0.881",
