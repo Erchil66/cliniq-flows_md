@@ -1,4 +1,13 @@
 {   
+    "1.0.886":{
+        "date": "2025-06-12",
+        "app_version":"1.0.886",
+        "notes": [
+            "Fix minor bugs.",
+            "Remove native ui on android outgoing",
+            "Timer fix for hold"
+        ]
+    },
     "1.0.885":{
         "date": "2025-06-12",
         "app_version":"1.0.885",
