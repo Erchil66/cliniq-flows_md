@@ -1,4 +1,12 @@
 {    
+    "1.0.900":{
+        "date": "2025-06-20",
+        "app_version":"1.0.900",
+        "notes": [
+            "Fix minor bugs.",
+            "Outgoing ringtone custom"
+        ]
+    },
     "1.0.897":{
         "date": "2025-06-20",
         "app_version":"1.0.897",
