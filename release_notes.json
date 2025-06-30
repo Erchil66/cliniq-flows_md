@@ -1,4 +1,12 @@
 {    
+    "1.0.907":{
+        "date": "2025-06-20",
+        "app_version":"1.0.907",
+        "notes": [
+            "Fix minor bugs.",
+            "IOS only ringtone change using resourse bundle mp3"
+        ]
+    },
     "1.0.906":{
         "date": "2025-06-20",
         "app_version":"1.0.906",
