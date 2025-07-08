@@ -1,4 +1,13 @@
 {   
+    "1.0.912":{
+        "date": "2025-07-08",
+        "app_version":"1.0.912",
+        "notes": [
+            "Fix minor bugs.",
+            "Delete Account",
+            "Fix notification name when staff to staff missed call"
+        ]
+    },
     "1.0.911":{
         "date": "2025-07-04",
         "app_version":"1.0.911",
