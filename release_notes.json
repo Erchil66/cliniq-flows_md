@@ -1,4 +1,12 @@
 {   
+    "1.0.918":{
+        "date": "2025-07-16",
+        "app_version":"1.0.918",
+        "notes": [
+            "Fix minor bugs.",
+            "Comm center list arrangements"
+        ]
+    }, 
     "1.0.915":{
         "date": "2025-07-16",
         "app_version":"1.0.915",
