@@ -1,4 +1,12 @@
 {   
+    "1.0.923":{
+        "date": "2025-07-18",
+        "app_version":"1.0.923",
+        "notes": [
+            "Fix minor bugs.",
+            "Phone format call"
+        ]
+    }, 
     "1.0.921":{
         "date": "2025-07-17",
         "app_version":"1.0.921",
