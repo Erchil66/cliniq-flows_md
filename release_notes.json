@@ -1,4 +1,12 @@
 {   
+    "1.0.926":{
+        "date": "2025-07-22",
+        "app_version":"1.0.926",
+        "notes": [
+            "View number on tab remove + if not international format",
+            "Applied also on task for phone tab"
+        ]
+    },
     "1.0.924":{
         "date": "2025-07-21",
         "app_version":"1.0.924",
