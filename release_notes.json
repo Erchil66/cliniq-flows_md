@@ -1,4 +1,11 @@
 {   
+    "1.0.928":{
+        "date": "2025-07-22",
+        "app_version":"1.0.928",
+        "notes": [
+            "Unregistered number checking to call."
+        ]
+    },
      "1.0.927":{
         "date": "2025-07-22",
         "app_version":"1.0.927",
