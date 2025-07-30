@@ -1,4 +1,12 @@
 {   
+    "1.0.932":{
+        "date": "2025-07-30",
+        "app_version":"1.0.932",
+        "notes": [
+            "Phone volume from mobile",
+            "Applied also on in app when incoming"
+        ]
+    },
      "1.0.931":{
         "date": "2025-07-30",
         "app_version":"1.0.931",
