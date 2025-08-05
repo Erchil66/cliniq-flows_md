@@ -1,5 +1,12 @@
 {   
-   
+    "1.0.934":{
+        "date": "2025-08-06",
+        "app_version":" 1.0.934+935",
+        "notes": [
+            "Phone volume from mobile",
+            "Audio and Voicemail audio set volume"
+        ]
+    },
     "1.0.933":{
         "date": "2025-08-4",
         "app_version":" 1.0.933+934",
