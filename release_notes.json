@@ -1,4 +1,13 @@
 {   
+    "1.0.937":{
+        "date": "2025-08-25",
+        "app_version":" 1.0.937+938",
+        "notes": [
+            "Android only volume for ringtone",
+            "Redirection for email",
+            "Minor bug fixes"
+        ]
+    },
     "1.0.934":{
         "date": "2025-08-06",
         "app_version":" 1.0.934+935",
